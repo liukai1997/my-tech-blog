@@ -1,8 +1,8 @@
 ---
-title: '我的第一篇文章'
-description: '这是我用 Astro + Vercel 搭建的博客！'
-pubDate: 'Jul 21 2025'
-heroImage: '../../src/assets/git-github.webp'
+title: 'GIT'
+description: 'git操作相关内容'
+pubDate: '2025 08 04'
+heroImage: '../../src/assets/git.jpg'
 ---
 
 ## 欢迎来到我的博客
