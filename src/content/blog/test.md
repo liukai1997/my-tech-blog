@@ -2,7 +2,6 @@
 title: '我的第一篇文章'
 description: '这是我用 Astro + Vercel 搭建的博客！'
 pubDate: 'Jul 21 2025'
-heroImage: '/blog-placeholder-3.jpg'
 ---
 
 ## 欢迎来到我的博客
